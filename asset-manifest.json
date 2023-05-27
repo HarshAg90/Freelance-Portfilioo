@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/Freelance-Portfilioo/static/css/main.c73dfdb6.css",
-    "main.js": "/Freelance-Portfilioo/static/js/main.ab8419d8.js",
-    "static/media/stock_pic_store.png": "/Freelance-Portfilioo/static/media/stock_pic_store.2eb48f45181c5a9233e8.png",
+    "main.css": "/Freelance-Portfilioo/static/css/main.9fc49cf8.css",
+    "main.js": "/Freelance-Portfilioo/static/js/main.d4c951d6.js",
     "static/media/lalit_life_Design.png": "/Freelance-Portfilioo/static/media/lalit_life_Design.ec021cdf092ecb04e1de.png",
     "static/media/python-hub-design.png": "/Freelance-Portfilioo/static/media/python-hub-design.5f777ec3b5c427e8c3c1.png",
+    "static/media/game-predictor.png": "/Freelance-Portfilioo/static/media/game-predictor.6124062204718f6a0543.png",
+    "static/media/Appointment-ai.png": "/Freelance-Portfilioo/static/media/Appointment-ai.8aa81d8c65d6d1f13674.png",
     "static/media/PythonHub_web_design.png": "/Freelance-Portfilioo/static/media/PythonHub_web_design.5b83eec3ba26925d2b32.png",
     "static/media/copy-assignments-design2.png": "/Freelance-Portfilioo/static/media/copy-assignments-design2.9039ddc0d90b3a766c7c.png",
     "static/media/Westiva Regular.ttf": "/Freelance-Portfilioo/static/media/Westiva Regular.3fcac888eba253bb3b1c.ttf",
+    "static/media/Amazon-AI.png": "/Freelance-Portfilioo/static/media/Amazon-AI.0cb79ae902a7c304423e.png",
     "static/media/instagram.png": "/Freelance-Portfilioo/static/media/instagram.5e853fbce6d1f4a3c580.png",
     "static/media/twitter.png": "/Freelance-Portfilioo/static/media/twitter.fab27476e98ab8a49167.png",
     "static/media/linkedin.png": "/Freelance-Portfilioo/static/media/linkedin.594ef44b37655cbcf7ac.png",
     "index.html": "/Freelance-Portfilioo/index.html",
-    "main.c73dfdb6.css.map": "/Freelance-Portfilioo/static/css/main.c73dfdb6.css.map",
-    "main.ab8419d8.js.map": "/Freelance-Portfilioo/static/js/main.ab8419d8.js.map"
+    "main.9fc49cf8.css.map": "/Freelance-Portfilioo/static/css/main.9fc49cf8.css.map",
+    "main.d4c951d6.js.map": "/Freelance-Portfilioo/static/js/main.d4c951d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.c73dfdb6.css",
-    "static/js/main.ab8419d8.js"
+    "static/css/main.9fc49cf8.css",
+    "static/js/main.d4c951d6.js"
   ]
 }
